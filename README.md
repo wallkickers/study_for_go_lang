@@ -8,3 +8,5 @@ cd env
 docker-compose up -d
 docker-compose exec app bash
 ```
+
+tominagaTest
